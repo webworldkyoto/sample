@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sample2 text file
+=======
+Sample2 online edit.
+>>>>>>> 2112ad91b4747d817854e013ec12665f19b606f6
